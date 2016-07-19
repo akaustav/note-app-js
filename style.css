@@ -1,4 +1,4 @@
-#note, input{
+#note, input {
   display: block;
   margin: 20px;
   width: 80%;
@@ -38,24 +38,22 @@ button {
 .add {
   float: right;
   background-color: #5cb85c;
-border-color: #4cae4c;
+  border-color: #4cae4c;
 }
 
 .edit {
   background-color: #337ab7;
   border-color: #2e6da4;
 }
+
 .delete {
   background-color: #c9302c;
   border-color: #ac2925;
+  float: right;
 }
 
 .parent-container {
   width: 82.5%;
-}
-
-.delete {
-  float: right;
 }
 
 .addedText {
